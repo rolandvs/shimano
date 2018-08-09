@@ -9,6 +9,19 @@ Electrification of a bike is very populair. There are two basic bike types:
 
 Among the pedelecs, drive-trains of Bosch, Shimano, Bafang and Yamaha are used as well as automatic transmission systems of Shimano, NuVinci, etc. which make riding a bike a joy.
 
+
+## Documents
+You can find some patents in the [patents](patents/) directory.
+
+## Communication
+The communication between the different system parts on the e-bike use power line communication (i.e. data is superimposed on the DC voltage).
+
+**`TODO`**<br>
+
+- Hookup oscillocope and see what happens
+- Measure voltages on the "bus"
+
+
 ## Experiments
 I ordered a bunch of accessoires and started experimenting...
 
