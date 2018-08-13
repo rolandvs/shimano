@@ -45,9 +45,14 @@ Let's try to hookup the PC interface. For that we install the software on a PC.
 
 - Preinstall Microsoft `dotnetfx35.exe` software as this is required. You can find this on the Microsoft website.
 - Install the Shimano software `e-tube project`. This can be found on the Shimano website.
-- Put the `SM-JC41` junction box in one of the wires from the e-bike system
-- Attach the `SM-PCE1` to the USB port
+- Put the **`SM-JC41`** junction box in one of the wires from the e-bike system
+- Attach the **`SM-PCE1`** to the USB port
 - Attach the special cable to the SM-PCE1 and the other end to the junction box
+
+*Tested on 13-08-2018 with the above setup and the result was that the setup is not working. The setup uses a `Mac`, with `VMWARE` and `Windows 8..10`, to work like a PC. Checking some forums revealed that there are more problems using "other" systems than PC's as people claim that the USB implementation of the SM-PCE1 does not comply with the USB standard.*
+
+**`NOTE:`** So the next step is to find a PC and repeat the above process.
+
 
 ## Accessoires
 
@@ -76,8 +81,10 @@ The `EW-WU111` is a wireless interface with `ANT` and `BLE` wireless standards. 
 The `EW-SD50` is a piece of wire in various lengths with connectors at both ends. The length of the wire can be ordered between 150mm and 1600mm.
 
 ### SM-JC41 Junction Box for Di2
+The junction box has four connections for cables, making it easy to insert a device to the e-Bike system.
 
 ### SM-DUE10 Speed Sensor
 The `SM-DUE10` is a Reed switch with an attached cable, together with a magnet that can be attached to the spoke of a wheel. It is handy to have  the magnet around if ever you loose the magnet the e-bike doesn't function anymore.
 
 ### TL-EW02 Plug Tool (for ST-6770)
+Just a piece of plastic to insert and/or remove a connector from a device.
