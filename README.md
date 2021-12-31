@@ -1,7 +1,7 @@
 # Shimano e-Steps
 This repository is dedicated to the Shimano e-Steps as I happen to have an e-Bike that is fitted with the Shimano drive-train. There is hardly any technical information on the electronics, so I decided to do a little exploring myself.
 
-Update: ```19-09-2018``` 
+Update: ```31-12-2021``` - Added SC-E6010
 
 ## e-Bikes
 Electrification of a bike is very populair. There are two basic bike types:
@@ -28,6 +28,10 @@ The communication between the different system parts on the e-bike use power lin
 - Hookup oscillocope and see what happens
 - Measure voltages on the "bus"
 
+## SC-E6010
+The console/display of the e-bike is a graphical display with backlight. It features a display, two buttons, a bus interface and an internal Li-Ion battery. The processor and the proprietary bus for the e-bike seem to be split in a specific IC and a more generic controller from Renesas R5F100GJA.
+
+_Datasheet and photos are in the picture directory._
 
 ## Experiments
 I ordered a bunch of accessoires and started experimenting...
