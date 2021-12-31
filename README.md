@@ -31,7 +31,7 @@ The communication between the different system parts on the e-bike use power lin
 ## SC-E6010
 The console/display of the e-bike is a graphical display with backlight. It features a display, two buttons, a bus interface and an internal Li-Ion battery. The processor and the proprietary bus for the e-bike seem to be split in a specific IC and a more generic controller from Renesas R5F100GJA.
 
-_Datasheet and photos are in the picture directory._
+_Datasheet and photos are in the [pictures](pictures/) directory._
 
 ## Experiments
 I ordered a bunch of accessoires and started experimenting...
